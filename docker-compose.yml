@@ -1,0 +1,10 @@
+#version: '3'
+services:
+  notes-app:
+    build: .
+    volumes:
+      - # Maps the local 'data' directory to '/data' in the container
+      - ./data:/data
+    stdin_open: true
+    tty: true
+
