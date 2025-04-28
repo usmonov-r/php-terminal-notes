@@ -10,8 +10,8 @@ This is a terminal-based notes app built with PHP, running inside Docker.
 ### 1. Clone the project
 
 ``` bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone origin https://github.com/usmonov-r/php-terminal-notes.git
+cd note-taking
 ```
 
 ### 2. Create ```data/notes.txt``` file *(if not exist)*
