@@ -11,7 +11,7 @@ This is a terminal-based notes app built with PHP, running inside Docker.
 
 ``` bash
 git clone origin https://github.com/usmonov-r/php-terminal-notes.git
-cd note-taking
+cd php-terminal-notes
 ```
 
 ### 2. Create ```data/notes.txt``` file *(if not exist)*
