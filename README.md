@@ -24,7 +24,7 @@ touch data/notes.txt
 ### 3. Build and start the app
 
 ```angular2html
-docker-compose up --build
+docker compose up --build
 ```
 
 ### 4.   Use the app
